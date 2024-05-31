@@ -15,7 +15,7 @@ Clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/esraa-svg/fetchPosts.git
-cd fetchPosts
+cd fetch
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
